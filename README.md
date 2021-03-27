@@ -1,2 +1,3 @@
 # hello-world
-first repository
+i add here my first code in python
+
